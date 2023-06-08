@@ -4,4 +4,7 @@ initialize git within the project we'd want to transport
 add our code base to the git transporter pipeline
 commit the code base that was added
 create a connection btween the local environment with remote environment
-push the codebase to the remote environmen
+push the codebase to the remote environment
+
+***BRANCHING***
+new branch develop
